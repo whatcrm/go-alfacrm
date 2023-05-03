@@ -1,4 +1,4 @@
-package amocrm
+package alfacrm
 
 // Handler with main data to work with amoCRM
 

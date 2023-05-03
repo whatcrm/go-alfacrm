@@ -1,4 +1,4 @@
-package amocrm
+package alfacrm
 
 const (
 	httpURL    = "https://"
